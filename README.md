@@ -1,5 +1,5 @@
 # MVP - Talles Rodrigues
-MVP da Pós Graduação - Ciência de Dados e Analytics
+MVP | Pós Graduação - Ciência de Dados e Analytics
 
 Importante: Os dados apresentados pertencem à empresa em que atuo e sua utilização nesta análise foi autorizada pela corporação (Belmicro).
 
