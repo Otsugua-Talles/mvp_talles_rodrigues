@@ -5,6 +5,8 @@ Importante: Os dados apresentados pertencem à empresa em que atuo e sua utiliza
 
 Neste MVP irei realizar a analise de vendas e devoluções da corporação para tomadas de decisões precisas e acertivas com 10 questionamentos reais do dia a dia.
 
+Link do catálogo usado no Databricks e as queries elaboradas: https://dbc-a12b511d-4097.cloud.databricks.com/editor/queries/2962501754022316?o=2124419101587585
+
 # KPI's da análise
 Comerciais
   - Faturamento Líquido
