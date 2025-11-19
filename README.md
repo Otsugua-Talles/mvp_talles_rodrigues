@@ -29,3 +29,17 @@ O objetivo desta análise foi compreender o comportamento das vendas e devoluç�
 A análise temporal mostrou variações significativas mês a mês, permitindo identificar sazonalidades e potenciais problemas operacionais. A avaliação por produto e por grupo revelou itens com alto índice de devolução, indicando necessidade de revisão de qualidade, logística ou atendimento. Já a análise por loja e vendedor permitiu entender como diferentes perfis contribuem para o resultado final.
 
 Os insights obtidos possibilitam tomadas de decisões estratégicas, como revisão de portfólio, melhoria no processo de pós-venda, ajustes de política comercial e identificação de oportunidades de otimização de receita.
+
+# Questionamentos elaborados para a análise
+
+1. Qual é o faturamento total por mês, considerando vendas descontadas das devoluções?
+2. Qual são os produtos com maior índice de devolução (%)?
+3. Qual vendedor teve o maior número de vendas líquidas (vendas-devoluções) no período?
+4. Quais lojas mais devolvem produtos e qual o valor financeiro dessas devoluções?
+5. Qual grupo  de produtos (categoria) gera mais receita líquida?
+6. Qual é o ticket médio dos pedidos (vendas) e o ticket médio "perdido" por devoluções?
+7. Que tipo de atendimento mais venda e qual mais devolve (B2B ou B2C)?
+8. Qual a evolução mensal do volume de vendas versus devoluções?
+9. Quais produtos tem devoluções recorrentes acima de 2 vezes pelo mesmo cliente?
+10. Qual o impacto financeiro das devoluções sobre o faturamento total?
+
