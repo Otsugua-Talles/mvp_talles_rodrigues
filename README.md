@@ -3,9 +3,15 @@ MVP da Pós Graduação - Ciência de Dados e Analytics
 
 Importante: Os dados apresentados pertencem à empresa em que atuo e sua utilização nesta análise foi autorizada pela corporação (Belmicro).
 
-Neste MVP irei realizar a analise de vendas e devoluções da corporação para tomadas de decisões precisas e acertivas com 10 questionamentos reais do dia a dia.
-
 Link do catálogo usado no Databricks e as queries elaboradas: https://dbc-a12b511d-4097.cloud.databricks.com/editor/queries/2962501754022316?o=2124419101587585
+
+# Storytelling (Objetivo)
+
+O objetivo desta análise foi compreender o comportamento das vendas e devoluções ao longo do período, identificando padrões, gargalos operacionais e oportunidades de melhoria. A partir das tabelas de vendas e devoluções, foram construídas métricas-chave como faturamento líquido, taxa de devolução, ticket médio e impacto financeiro das devoluções.
+
+A análise temporal mostrou variações significativas mês a mês, permitindo identificar sazonalidades e potenciais problemas operacionais. A avaliação por produto e por grupo revelou itens com alto índice de devolução, indicando necessidade de revisão de qualidade, logística ou atendimento. Já a análise por loja e vendedor permitiu entender como diferentes perfis contribuem para o resultado final.
+
+Os insights obtidos possibilitam tomadas de decisões estratégicas, como revisão de portfólio, melhoria no processo de pós-venda, ajustes de política comercial e identificação de oportunidades de otimização de receita.
 
 # Questionamentos elaborados para a análise
 
@@ -36,13 +42,3 @@ Operacionais
 Financeiro
   - Impacto financeiro das devoluções (%)
   - Margem bruta perdida por devoluções
-
-# Storytelling
-
-O objetivo desta análise foi compreender o comportamento das vendas e devoluções ao longo do período, identificando padrões, gargalos operacionais e oportunidades de melhoria. A partir das tabelas de vendas e devoluções, foram construídas métricas-chave como faturamento líquido, taxa de devolução, ticket médio e impacto financeiro das devoluções.
-
-A análise temporal mostrou variações significativas mês a mês, permitindo identificar sazonalidades e potenciais problemas operacionais. A avaliação por produto e por grupo revelou itens com alto índice de devolução, indicando necessidade de revisão de qualidade, logística ou atendimento. Já a análise por loja e vendedor permitiu entender como diferentes perfis contribuem para o resultado final.
-
-Os insights obtidos possibilitam tomadas de decisões estratégicas, como revisão de portfólio, melhoria no processo de pós-venda, ajustes de política comercial e identificação de oportunidades de otimização de receita.
-
-
