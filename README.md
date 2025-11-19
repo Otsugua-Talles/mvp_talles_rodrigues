@@ -37,10 +37,10 @@ Comerciais
   - TOP 10 produtos mais devolvidos
 
 Operacionais
-  - Visualização por mês
   - Produtos com devolução recorrente
   - Clientes com maior índice de devolução
 
 Financeiro
+  - Visualização da receita por mês
   - Impacto financeiro das devoluções (%)
   - Margem bruta perdida por devoluções
