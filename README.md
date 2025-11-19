@@ -40,7 +40,7 @@ Os insights obtidos possibilitam tomadas de decisões estratégicas, como revis�
 4. Quais lojas mais devolvem produtos e qual o valor financeiro dessas devoluções?
 5. Qual grupo  de produtos (categoria) gera mais receita líquida?
 6. Qual é o ticket médio dos pedidos (vendas) e o ticket médio "perdido" por devoluções?
-7. Que tipo de atendimento mais venda e qual mais devolve (B2B ou B2C)?
+7. Que tipo de atendimento mais vende e qual mais devolve (B2B ou B2C)?
 8. Qual a evolução mensal do volume de vendas versus devoluções?
 9. Quais produtos tem devoluções recorrentes acima de 2 vezes pelo mesmo cliente?
 10. Qual o impacto financeiro das devoluções sobre o faturamento total?
