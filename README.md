@@ -3,7 +3,9 @@ MVP | Pós Graduação - Ciência de Dados e Analytics
 
 Importante: Os dados apresentados pertencem à empresa em que atuo e sua utilização nesta análise foi autorizada pela corporação (Belmicro).
 
-Link do catálogo usado no Databricks e as queries elaboradas: https://dbc-a12b511d-4097.cloud.databricks.com/editor/queries/2962501754022316?o=2124419101587585
+Link do catálogo criado no Databricks e as queries elaboradas: 
+
+https://dbc-a12b511d-4097.cloud.databricks.com/editor/queries/2962501754022316?o=2124419101587585
 
 # Storytelling (Objetivo)
 
